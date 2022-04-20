@@ -9,6 +9,7 @@ Requirements
 - Python 3
 - npm
 - postgresql
+
   - ``createdb project``
 
 Pre-Installation
