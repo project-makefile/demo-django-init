@@ -9,6 +9,7 @@ Requirements
 - Python 3
 - npm
 - postgresql
+  - ``createdb project``
 
 Pre-Installation
 ----------------
@@ -21,8 +22,9 @@ Pre-Installation
 Installation
 ------------
 
-    make django-init
+::
 
+    make django-init
 
 .. image:: screenshot.png
 .. image:: screenshot2.png
