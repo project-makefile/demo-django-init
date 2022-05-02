@@ -1,4 +1,4 @@
-demo-django-init
+test-django-init
 ================================================================================
 
 A project makefile production.
