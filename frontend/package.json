@@ -53,6 +53,8 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
+    "@popperjs/core": "^2.11.5",
+    "acorn": "^8.7.1",
     "bootstrap": "^5.1.1",
     "core-js": "^3.16.1"
   }
