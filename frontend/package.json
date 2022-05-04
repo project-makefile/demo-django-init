@@ -53,9 +53,13 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
+    "@babel/preset-react": "^7.16.7",
     "@popperjs/core": "^2.11.5",
     "acorn": "^8.7.1",
     "bootstrap": "^5.1.1",
-    "core-js": "^3.16.1"
+    "core-js": "^3.16.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
   }
 }
